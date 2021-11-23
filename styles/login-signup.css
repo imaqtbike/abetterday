@@ -10,10 +10,10 @@ html,body{
     height: 100%;
     width: 100%;
     place-items: center;
-    background: -webkit-linear-gradient(left, #a445b2, #fa4299);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(71,117,113,1) 35%, rgba(0,212,255,1) 100%);
 }
 ::selection{
-    background: #fa4299;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(71,117,113,1) 35%, rgba(0,212,255,1) 100%); */
     color: #fff;
 }
 .wrapper{
