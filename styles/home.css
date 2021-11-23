@@ -156,7 +156,7 @@ body{
     padding: 10px 20px;
     text-decoration: none;
     font-weight: 700;
-    font-size: 12px;
+    font-size: 17px;
     border: none
 }
 
@@ -641,4 +641,12 @@ a.btn.btn-sm.btn-info.mb-2 {
 
 #home__heading {
     text-align: center;
+}
+
+.profile-header-tab {
+    justify-content: space-around;
+}
+
+.nav-item a {
+    font-size: 20px;
 }
